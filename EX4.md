@@ -1,7 +1,7 @@
 # Ex. No: 4 Creating Procedures using PL/SQL
 
 ### AIM: 
-    To create a procedure using PL/SQL.
+To create a procedure using PL/SQL.
 
 ### Algorithm:
 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
@@ -42,4 +42,4 @@ select *from employ;
 ![1](https://github.com/Mothesh-M127/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/94170892/a37bd5db-fe19-4a3a-abdd-b8106effd3ad)
 
 ### Result:
-    Thus, procedure is created using PL/SQL.
+Thus, procedure is created using PL/SQL.
